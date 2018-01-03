@@ -1,0 +1,23 @@
+.wide {
+  width: 100%
+}
+
+.inline-content {
+  @extend .wide;
+  display: inline-flex;
+}
+
+.matrixCell {
+  min-width: 2rem;
+  max-width: 2rem;
+  min-height: 2rem;
+  max-height: 2rem;
+  margin-right: 2px;
+  margin-left: 2px;
+  margin-top: 2px;
+}
+
+.m-card {
+  margin-top: 7px;
+  margin-bottom: 7px;
+}
