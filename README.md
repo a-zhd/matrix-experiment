@@ -1,11 +1,8 @@
-# Matrix experiment
+# Color Matrix
+## Technical Test 
 
-  in project directory execute
-
-  ```
+```shell
   npm i
-  npm i -g gulp (if gulp is not installed)
   gulp
-  gulp (repeat if webserver do not started)
-  ```
-  [go to app](http://localhost:8000)
+```
+go to 8080 port
